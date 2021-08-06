@@ -30,3 +30,7 @@
   .sticky + .content {
     padding-top: 60px;
   }
+
+  body {
+    background: black url("https://vistapointe.net/images/nirvana-wallpaper-8.jpg") no-repeat fixed center;
+  }
