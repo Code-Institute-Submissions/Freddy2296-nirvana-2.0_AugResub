@@ -38,4 +38,22 @@
     top: 300px;
   }
 
-  
+  .slide1 {
+   background-image: url(https://www.kolpaper.com/wp-content/uploads/2021/04/Nirvana-Wallpaper.jpg);
+   color:white;
+   height:700px;
+   width:25%;
+   background-size:cover;
+   background-repeat:no-repeat;
+   background-position:center center;
+   }
+   
+   .slide2 {
+   background-image: url(https://crosscut.com/sites/default/files/styles/max_2000x2000/public/images/articles/kurt_vancouver_shoulders_001_copy.jpg?itok=3abIQ98C);
+   color:white;
+   height:700px;
+   width:25%;
+   background-size:cover;
+   background-repeat:no-repeat;
+   background-position:center center;
+   } 
