@@ -15,17 +15,12 @@
    <a href="#home">Home</a>
    <a href="#news">News</a>
    <a href="#contact">Contact</a>
+
+ 
  </div>
+
  <iframe src="https://open.spotify.com/embed/track/5ghIJDpPoe3CfHMGu71E6T" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
-    <iframe  src="https://www.youtube.com/embed/hTWKbfoikeg?autoplay=1&mute=1" width="550" height="320" align="right">
-
-    </iframe>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
 
     <div class="slide1">
       Hello World - this is my second slide!
@@ -33,6 +28,50 @@
       <div class="slide2">
         Hello World - this is my second slide!
         </div>
+
+        <h2>Modal Login Form</h2>
+
+        <button onclick="document.getElementById('id01').style.display='block'" style="width:auto;">Login</button>
+        
+        <div id="id01" class="modal">
+          
+          <form class="modal-content animate" action="/action_page.php" method="post">
+            <div class="imgcontainer">
+              <span onclick="document.getElementById('id01').style.display='none'" class="close" title="Close Modal">&times;</span>
+              <img src="https://w7.pngwing.com/pngs/761/335/png-transparent-avatar-silhouette-computer-icons-female-id-heroes-head-silhouette-thumbnail.png" alt="Avatar" class="avatar">
+            </div>
+        
+            <div class="container">
+              <label for="uname"><b>Username</b></label>
+              <input type="text" placeholder="Enter Username" name="uname" required>
+        
+              <label for="psw"><b>Password</b></label>
+              <input type="password" placeholder="Enter Password" name="psw" required>
+                
+              <button type="submit">Login</button>
+              <label>
+                <input type="checkbox" checked="checked" name="remember"> Remember me
+              </label>
+            </div>
+        
+            <div class="container" style="background-color:#f1f1f1">
+              <button type="button" onclick="document.getElementById('id01').style.display='none'" class="cancelbtn">Cancel</button>
+              <span class="psw">Forgot <a href="#">password?</a></span>
+            </div>
+          </form>
+        </div>
+        
+        <script>
+        // Get the modal
+        var modal = document.getElementById('id01');
+        
+        // When the user clicks anywhere outside of the modal, close it
+        window.onclick = function(event) {
+            if (event.target == modal) {
+                modal.style.display = "none";
+            }
+        }
+        </script>
 
     </body>
 
