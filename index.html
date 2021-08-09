@@ -11,11 +11,31 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Nirvananevermind-logo.svg/1200px-Nirvananevermind-logo.svg.png" alt="logo" width="350" height="150">
   </div>
   
-    <div id="navbar">
-   <a href="#home">Home</a>
-   <a href="#news">News</a>
-   <a href="#contact">Contact</a>
-
+  
+  <div id="navbar">
+    <a class="active" href="javascript:void(0)">Home</a>
+    <a href="javascript:void(0)">News</a>
+    <a href="javascript:void(0)">Contact</a>
+  </div>
+  
+  <div class="content">
+    
+  </div>
+  
+  <script>
+  window.onscroll = function() {myFunction()};
+  
+  var navbar = document.getElementById("navbar");
+  var sticky = navbar.offsetTop;
+  
+  function myFunction() {
+    if (window.pageYOffset >= sticky) {
+      navbar.classList.add("sticky")
+    } else {
+      navbar.classList.remove("sticky");
+    }
+  }
+  </script>
  
  </div>
 
@@ -23,10 +43,10 @@
 
 
     <div class="slide1">
-      Hello World - this is my second slide!
+      NIRVANA
       </div>
       <div class="slide2">
-        Hello World - this is my second slide!
+        NIRVANA
         </div>
 
         <h2>Modal Login Form</h2>
