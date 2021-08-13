@@ -10,38 +10,41 @@ and buy tickets look for information and get intune with the band. I hope I have
 younger generation a very awesome band of past, enjoy.
 # User stories 
 ## First Time Visitor Goals
-* As a First Time Vister, I want to  be able to understand concept of the game right away.
-*  As a First Time Vister, I want to be able to understand how to win or how to go about the game.
-*  As a First Time Vister, I want to know if I lost and how to restart and if i did so.
+* As a First Time Vister, I want to  be able to get information on the band.
+*  As a First Time Vister, I want to be able to listen to song / albums.
+*  As a First Time Vister, I want to know were I can buy merchandise or sign up for tickets.
 
 
 
 ## Returning Visitor Goals 
 
-* As a Returning Visitor, I want to be able to understand the game more know.
-* As a Returning Visitor, I want to be able to win.
-* As a Returning Visitor, I want to enjoy the visual and characthers in the game.
-## Frequent User Goals
-* As a Frequent User, I want to check to see if there are any newly added challenges.
-*  As a Frequent User, I want to see if any new characthers have been added.
-*  As a Frequent User, I want to see if any design change have been made.
+* As a Returning Visitor, I want to be able to know more about the band and important facts.
+* As a Returning Visitor, I want to be able see music video or how do stream songs.
+* As a Returning Visitor, I want to enjoy more music content.
+* As a Returning Visitor, I want to see more accessories I can buy.
 
+## Frequent User Goals
+* As a Frequent User, I want to able to navigated easily through the site with no problem.
+*  As a Frequent User, I want to see direct social media links.
+*  As a Frequent User, I want to able to stream music and where to do it at.
+*  As a Frequent User, I want to know how to get facts about the band and where to find them.
 ## Design 
 
 ### Colour Scheme
-* The main colors used are Black , Lime green , Aqua
+* The main colors used are Black , White , Aqua
 
 ### Typography
 * The Montserrat font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. Montserrat is a clean font used frequently in programming, so it is both attractive and appropriate.
 
 ### Imagery
-The Imagery is a gif of a portal form the tv series and I got it from google it's important because it's 
-the background of the card and once you click on it you get the image of the characthers that are also important
-images.
+The images you see used on the site are photos from the band found google and gifs. 
 
 ### Wireframes
-* Home Page Wireframe - [View](https://share.bublup.com/ui/landing_page?item_id=001-i-c40153a3-05a3-4489-ac83-f08a0a383e5c)
-* Mobile Wireframe -  [View](https://share.bublup.com/ui/landing_page?item_id=001-i-921aae19-155b-428b-991e-0c6fde63a9b8)
+* Home Page Wireframe - [View](https://dujeb9m.sharing.bublup.com/ui/landing_page?item_id=001-i-bff5ef36-350e-4838-bae3-63b1e8ec701c)
+* Mobile Wireframe -  [View](https://dujeb9m.sharing.bublup.com/ui/landing_page?item_id=001-i-bff5ef36-350e-4838-bae3-63b1e8ec701c)
+* Home Page Wireframe - [View](https://dujeb9m.sharing.bublup.com/ui/landing_page?item_id=001-i-a0124e15-9647-474e-ad4c-b9207dbaf59b)
+* Finished Sales Page -[View](https://dujeb9m.sharing.bublup.com/ui/landing_page?item_id=001-i-d2663b0a-7c19-4e75-ba62-18e99562f62b)
+* Finished music Page -[View](https://dujeb9m.sharing.bublup.com/ui/landing_page?item_id=001-i-a098e845-516d-4bdf-9d1b-2fb0f2298b5b)
 
 
 
@@ -76,78 +79,71 @@ images.
 # Testing
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
-* W3C Markup Validator - [View](https://validator.w3.org/nu/?doc=https%3A%2F%2Ffreddy2296.github.io%2FRick-and-Morty-Memory-Game-%2F)
+* W3C Markup Validator - [View]()
 
 
-* W3C CSS Validator -  [View](http://jigsaw.w3.org/css-validator/validator?uri=+https%3A%2F%2Ffreddy2296.github.io%2FRick-and-Morty-Memory-Game-%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=)
+* W3C CSS Validator -  [View]()
 
-* JavaScript Validator -  [View](https://share.bublup.com/ui/landing_page?item_id=001-i-3f71d3c2-8641-461b-96c3-eb23df54ef99)
+
 # Testing User Stories from User Experience (UX) Section
 # First Time Visitor Goals
-  i. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the game it self .
-    a. Upon entering the site, I immedately see the green portals and the Header of the game so I know right away it's a memory game. [View screenshot](https://share.bublup.com/ui/landing_page?item_id=001-i-56f1a562-265d-4fba-9cfb-55543e3590cd)
+  i. As a First Time Visitor, I was able to run through the site easily the site home page was a good way for me to understand how sign up and get a good peak at some music when i first enter the site. [View screenshot](https://dujeb9m.sharing.bublup.com/ui/landing_page?item_id=001-i-a0124e15-9647-474e-ad4c-b9207dbaf59b)
 
-    b. The main point is made by the title that it is a game and i can start playing right away and as soon I click I can play.
-
-
-    c. The user has the option to start playing right away without a timer or rules simply match to cards and proceed till you 
+    b. As i navigated through the site the navbar is super helpful and helps me find my way around.
 
 
-    find all of them.
+    c. I also noticed I have the option to sign up for emails and updates on the band .
       
 
-   ii. As a First Time Visitor, I want to be able to easily understand the game and the purpose of it.
-     a. As you enter the site you know right away its a memory game the title itself states that so no worries [View screenshot](https://share.bublup.com/ui/landing_page?item_id=001-i-de2a795a-f3b0-457e-b6aa-f91fb3171278)
+   ii. As a First Time Visitor, going through the sites pages I noticed I'm able to go back to the main page by clicking on the banner in the header which a gif it's very nice and helpful.  [View screenshot](https://dujeb9m.sharing.bublup.com/ui/landing_page?item_id=001-i-173704c3-01db-4a4f-b0e6-83dc9b60c9fa)
 
 
-     b. As you start to play the game you start to notice that once you match a card with another one with the same picture  it disappears that's how you know you have solved one part and can proceed to solved the next one.
+     b. I like the fact that I'm being told facts and details along the way it's very nice to get information since im a first time user.
 
 
-     c. As any memory game you know it's simple once you clicked on a card and it reveals which one it is all you have to do 
-     is remember where it was and once you find a similar one go back to it and match the cards.
+     c. Also seeing that they social media link to direct straight to the bands other website is very helpful to get more of 
+     better understanding of the band.
     
      
-     iii. As a First Time Visitor, I want to be to win and know how to make it easier for next time 
-        a. As you continue to play game you start to understand it more and learn the were most of the same card are 
+     iii. As a First Time Visitor, I like that the music videos play automatically it's a pretty nice feature
+        a. As you continue to see the music you can also noticed that they have a spotify place list as the banner is very helpful. 
 
 
-        b. It gets simple once you remember were each card is but after you win the cards get reshuffle to so you get challenged.
+        b. Very cool cd cover and album covers too .
 
 
-        c. Winning gets easier the more you play and learn the game so winning will be more likely if you continue playing
+        c. I like how the they give you information over the merchandise the band has it's very useful if you want to buy anything.
 
 # Returning Visitor Goals
-   i. As a Returning Visitor, I want to find new characters ,  [View screenshot](https://share.bublup.com/ui/landing_page?item_id=001-i-c0d992d2-768d-4d57-b9d3-49cde77e47c2)
+   i. As a Returning Visitor, I have love the fact that I can buy accessories in the sales page and so easily too  [View screenshot](https://dujeb9m.sharing.bublup.com/ui/landing_page?item_id=001-i-d2663b0a-7c19-4e75-ba62-18e99562f62b)
 
-    a. These will clear be annouced on the top of the page  with an updated post.
-    b. They will be noticed right away when you start playing the game. 
+    a. Futher more returning to site is great I'm able to find more music and links to tickets.
+    b. They give updates once you sign up and they send them to your email so your informed . 
 
-    ii. As a Returning Visitor, I want to see more challenge and actual score board.
+    ii. As a Returning Visitor, I have enjoyed using the site so easy to navigate towards and very nice colors they just get your attention .
 
-       a. There was more challenges in game the game got more hard to remember more shuffles. 
-       b. There was a score board at on top of the page and it helps understand more and makes the game more fun.
-       c. By add the score board the game was made more competive so you and your friends can keep tabs on who is pulling head
-       and who had a better score.
+    a. This site makes you want to comeback just for more information it's helpful , useful I would highly recommend it.
+    b. Never a dull moment form the music to videos to the links to the details everything is great.
         
 
 
 
 # Frequent User Goals
-* As a Frequent User, I want to know how the game work, how it runs and why it's build the way it is.
+* As a Frequent User, I'm to get updates on tickets on new music new sales.
 
 
-     a. The user would get to understand that the game is a memory game there fore it is build to challenge you.
+     a. Using the sign up form on the bottom of the main page is where you sign and it's super nice.
  
-* As a Frequent User, I want to be able to get scores to go one on one with my friends. 
+* As a Frequent User, I know most of the songs and albums thanks to the site and the spotify links. 
 
 
-     a.The user would have the score panal to rely on that information to keep score against others.
+     a.It's super helpful to have links to stream sites and being able to get the newest realse first.
  
 
-* As a Frequent User, I want to know where the idea came fromm for the game.
+* As a Frequent User, I have access to all social media platforms so I'm able to be updated with new facts and details.
 
 
-     a. The user would understand by playing the game that the game is based of the tv series Rick and Morty.
+     a. Any update or new information I'm always inform and It's thanks to this site.
  
 ## Further Testing
 * The Website was tested on Google Chrome, Internet Explorer, Microsoft Edge and Safari browsers.
