@@ -197,3 +197,7 @@ span.psw {
 }
 /* end of css */
 
+iframe{
+  border: 0px;
+  background-color: transparent;
+  }
