@@ -79,10 +79,10 @@ The images you see used on the site are photos from the band found google and gi
 # Testing
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
-* W3C Markup Validator - [View]()
+* W3C Markup Validator - [View](https://validator.w3.org/nu/?doc=https%3A%2F%2Ffreddy2296.github.io%2Fnirvana-2.0%2F)
 
 
-* W3C CSS Validator -  [View]()
+* W3C CSS Validator -  [View](http://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Ffreddy2296.github.io%2Fnirvana-2.0%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=)
 
 
 # Testing User Stories from User Experience (UX) Section
@@ -197,8 +197,8 @@ $ git clone -https://freddy2296.github.io/Rick-and-Morty-Memory-Game-/
 ## Credits
 ### Code
 * Bootstrap4: Bootstrap Library used throughout the project mainly to make site responsive using the Bootstrap Grid System.
-* The concept for this memory game came out of Tania Rascia and her memory game ala Super Mario 3 , Code was modified to better fit my needs.
-* concept for the score board and timer came from ,  [stack overflow](https://stackoverflow.com/)
+* The web page concept also came form w3school.com I just better it to my needs
+
 
 
 
