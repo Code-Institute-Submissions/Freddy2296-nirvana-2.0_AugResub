@@ -81,8 +81,17 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 * W3C Markup Validator - [View](https://validator.w3.org/nu/?doc=https%3A%2F%2Ffreddy2296.github.io%2Fnirvana-2.0%2F)
 
+* W3C Markup Validator screenshot- [View](https://dujeb9m.sharing.bublup.com/ui/landing_page?item_id=001-i-40250197-478b-4eea-ab18-8266bd1de17f)
+
 
 * W3C CSS Validator -  [View](http://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Ffreddy2296.github.io%2Fnirvana-2.0%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=)
+
+* W3C CSS Validator -  [View](https://dujeb9m.sharing.bublup.com/ui/landing_page?item_id=001-i-ad45fbce-744c-4038-80f6-7af5055af3f1)
+
+* Responsive Design Checker Screenshots - [View](https://dujeb9m.sharing.bublup.com/ui/landing_page?item_id=001-i-512a7e15-ae3a-46b6-bb56-1cc577c577ee)
+                                          [View](https://dujeb9m.sharing.bublup.com/ui/landing_page?item_id=001-i-8526942e-a3f4-4503-8b3a-56baf1abe806) 
+
+
 
 
 # Testing User Stories from User Experience (UX) Section
