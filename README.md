@@ -104,7 +104,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
     c. I also noticed I have the option to sign up for emails and updates on the band .
       
 
-   ii. As a First Time Visitor, going through the sites pages I noticed I'm able to go back to the main page by clicking on the banner in the header which a gif it's very nice and helpful.  [View screenshot](https://dujeb9m.sharing.bublup.com/ui/landing_page?item_id=001-i-173704c3-01db-4a4f-b0e6-83dc9b60c9fa)
+   ii. As a First Time Visitor, going through the sites pages I noticed I'm able to go back to the main page by clicking on the banner in the header which is a gif it's very nice and helpful.  [View screenshot](https://dujeb9m.sharing.bublup.com/ui/landing_page?item_id=001-i-173704c3-01db-4a4f-b0e6-83dc9b60c9fa)
 
 
      b. I like the fact that I'm being told facts and details along the way it's very nice to get information since im a first time user.
@@ -160,11 +160,9 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 * A large amount of testing was done to ensure that all pages were linking correctly.
 * Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues.
 ## Known Bugs
-* know bugs I had are that some of my variables in the javascript come up undefined but work just fine .
-* var card = document.createElement('div');
-    card.classList.add('card');
-    card.dataset.name = name;
-  * for example my var is defined but it comes out undefined in the java validator 
+* know bugs I had are that sometimes my page does load as fast as it should .
+* So of the photo might over lap the main background image on mobile devices.
+  * Some of the ratio aspect are of but I've adjust everything to work better 
   * Other then that everything should work just fine.
 
 
