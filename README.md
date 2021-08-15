@@ -3,11 +3,11 @@
 
 # UX
 ## Project Goals
-The goal with this project was to create a page for one of my favorite bands, so everybody who enjoys the band can get so 
+The goal with this project was to create a page for one of my favorite bands, so everybody who enjoys the band can get some
 knowledge on the band. Also I wanted the  user to be able to have access to the music of Nirvana and facts about the band 
-they might of not had. In reality my main goal was to create a likeable page that the a user would to return too many time,
-and buy tickets look for information and get intune with the band. I hope I have helped with desired question and showed a 
-younger generation a very awesome band of past, enjoy.
+they might of not had. In reality my main goal was to create a likeable page that the a user would likely  return to many time,
+and buy tickets ,look for information and get intune with the band. I hope I have helped with desired question and showed a 
+younger generation a very awesome band of the past, enjoy.
 # User stories 
 ## First Time Visitor Goals
 * As a First Time Vister, I want to  be able to get information on the band.
@@ -19,7 +19,7 @@ younger generation a very awesome band of past, enjoy.
 ## Returning Visitor Goals 
 
 * As a Returning Visitor, I want to be able to know more about the band and important facts.
-* As a Returning Visitor, I want to be able see music video or how do stream songs.
+* As a Returning Visitor, I want to be able see music video or how to stream songs.
 * As a Returning Visitor, I want to enjoy more music content.
 * As a Returning Visitor, I want to see more accessories I can buy.
 
@@ -124,7 +124,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
         c. I like how the they give you information over the merchandise the band has it's very useful if you want to buy anything.
 
 # Returning Visitor Goals
-   i. As a Returning Visitor, I have love the fact that I can buy accessories in the sales page and so easily too  [View screenshot](https://dujeb9m.sharing.bublup.com/ui/landing_page?item_id=001-i-d2663b0a-7c19-4e75-ba62-18e99562f62b)
+   i. As a Returning Visitor, I have love the fact that I can buy accessories in the sales page and so easily too  [View screenshot](https://dujeb9m.sharing.bublup.com/ui/landing_page?item_id=001-i-785c027a-56fe-43ab-bac2-3a565f7e48b3)
 
     a. Futher more returning to site is great I'm able to find more music and links to tickets.
     b. They give updates once you sign up and they send them to your email so your informed . 
@@ -146,10 +146,10 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 * As a Frequent User, I know most of the songs and albums thanks to the site and the spotify links. 
 
 
-     a.It's super helpful to have links to stream sites and being able to get the newest realse first.
+     a. It's super helpful to have links to stream sites and being able to get the newest releases first.
  
 
-* As a Frequent User, I have access to all social media platforms so I'm able to be updated with new facts and details.
+* As a Frequent User, I have access to all social media platforms so I'm able to get updated with new facts and details.
 
 
      a. Any update or new information I'm always inform and It's thanks to this site.
@@ -191,9 +191,9 @@ By forking the GitHub Repository we make a copy of the original repository on ou
 * Open Git Bash
 * Change the current working directory to the location where you want the cloned directory to be made.
 * Type git clone, and then paste the URL you copied in Step 3.
-$ git clone - https://freddy2296.github.io/Rick-and-Morty-Memory-Game-/
+$ git clone -  https://freddy2296.github.io/nirvana-2.0/
 * Press Enter. Your local clone will be created.
-$ git clone -https://freddy2296.github.io/Rick-and-Morty-Memory-Game-/
+$ git clone -  https://freddy2296.github.io/nirvana-2.0/
 > Cloning into `CI-Clone`...
 > remote: Counting objects: 10, done.
 > remote: Compressing objects: 100% (8/8), done.
